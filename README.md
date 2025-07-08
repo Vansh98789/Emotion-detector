@@ -4,11 +4,8 @@ A simple web app that allows users to reflect on their feelings by submitting a 
 
 ---
 
-## 🚀 Setup Instructions
+# 🚀 Setup Instructions
 
-### 📁 1. Clone the Repository
-
-```bash
 1) git clone https://github.com/Vansh98789/Emotion-detector.git
 2) cd my-emotoion-detector-backend
 3) pip install fastapi uvicorn
