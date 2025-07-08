@@ -16,6 +16,12 @@ A simple web app that allows users to reflect on their feelings by submitting a 
 8) npm run dev
 
 ---
+<h1>Additional features</h1>
+<ol>
+  <li>Theme can be Toogle (Dark/light mode)</li>
+  <li>Give back emoji according to mood </li>
+  <li>Beutiful design</li>
+</ol>
 
 <h1>🧠 Backend Logic</h1>
 The backend uses a keyword-based emotion detection system. Here’s how it works:
