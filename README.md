@@ -17,7 +17,7 @@ A simple web app that allows users to reflect on their feelings by submitting a 
 
 ---
 
-#🧠 Backend Logic
+<h1>🧠 Backend Logic</h1>
 The backend uses a keyword-based emotion detection system. Here’s how it works:
 
 When a POST request is made to /analyze with a reflection text like:
